@@ -3,8 +3,8 @@ name: decisive-point-identification
 description: Identify where to focus limited resources for maximum impact by finding the one point where victory matters most.
 license: MIT
 metadata:
+  version: 1.0.3793
   author: sethmblack
-  version: 1.0.3792
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decisive-point-identification
